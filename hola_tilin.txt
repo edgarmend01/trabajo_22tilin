@@ -1,5 +1,8 @@
 r = int(input("Cuantos robux necesitas? "))
+r = 0
 print ("Hola, jayco te dara",r,"robux c:")
 
 #media hora para esto
 #mejor nadota
+
+#mepa que no le saben mover a esto pare
