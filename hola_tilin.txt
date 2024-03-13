@@ -1,0 +1,2 @@
+r = int(input("Cuantos robux necesitas? "))
+print ("Hola, jayco te dara",r,"robux c:")
