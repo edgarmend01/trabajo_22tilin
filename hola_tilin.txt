@@ -3,5 +3,3 @@ print ("Hola, jayco te dara",r,"robux c:")
 
 #media hora para esto
 #mejor nadota
-
-papa
