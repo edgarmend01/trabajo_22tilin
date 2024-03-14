@@ -6,3 +6,8 @@ print ("Hola, jayco te dara",r,"robux c:")
 #mejor nadota
 
 #mepa que no le saben mover a esto pare
+
+o = "tengohambre"
+print (o)
+
+#123
